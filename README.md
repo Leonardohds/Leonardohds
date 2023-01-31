@@ -1,16 +1,13 @@
-### Hi there 👋
+# Hi, I'm Leonardo Henrique 👋
 
-<!--
-**Leonardohds/Leonardohds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Passionate about programming and technology. Experience with C++ and C#
 
-Here are some ideas to get you started:
+I work in a SQUAD responsible for resolving impacted customer bugs using - mostly - C++ and C#
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm currently a Software Developer at Ativvus, in a team that develops automation and solutions using C++, C# and TypeScript
+
+# My most used languages
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leonardohds&layout=compact" />
+</a>
